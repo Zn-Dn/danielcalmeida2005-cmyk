@@ -1,7 +1,12 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
+# 👩🏻‍💻 Daniel carvalho
 
+**`Desenvolvedor front-End`**
+
+Me chamo Daniel carvalho, tenho 21 anos e sou de Vitoria da Conquista.Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhaguera.
+ 
 <div align="center">  
 <a href="https://www.instagram.com/daniel_almdx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
